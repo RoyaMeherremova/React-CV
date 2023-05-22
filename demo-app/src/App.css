@@ -1,0 +1,171 @@
+
+.resume{
+  display: flex;
+  justify-content: center;
+}
+.left-side{
+  background-color: #DFA793;
+  width: 252px;
+  height: 735px;
+  padding-top: 25px;
+}
+.name-div{
+  position: relative;
+    left: 20px;
+    padding: 0px 31px 0 0;
+}
+.img-div{
+  border-radius: 111px;
+  width: 183px;
+  height: 180px;
+  margin:auto;
+}
+.myName{
+  color: #353535;
+  font-family: unset;
+  margin-top: 43px;
+  margin-bottom: 15px;
+  font-size: 23px;
+  font-weight: 600;
+}
+.carier{
+  color:#4E4E4E;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contact span{
+  color:#99212A;
+  font-family:unset;
+  font-weight: 600;
+    font-size: 22px;
+    
+
+}
+.refrence{
+  color:#99212A;
+  margin-top: 33px;
+
+}
+.refrence .ref{
+  font-size: 22px;
+  font-weight: 600;
+  margin-left: 32px;
+}
+.contact p{
+  color: #353535;
+ 
+}
+.refrence .phone{
+  color: #353535;
+}
+.refrence p{
+  font-size: 15px;
+margin-top:5px;
+}
+.refrence .name-ref{
+  font-size: 19px;
+  margin: auto;
+  margin-left: 2px;
+}
+.contact .icon{
+  color:#99212A;
+  margin-left: 34px;
+}
+.about{
+  padding-top: 37px;
+}
+.about .icon{
+  color:#99212A;
+  margin-left: 25px;
+  font-size: 29px;
+  margin-top: 17px;
+}
+
+.about span{
+  color:#99212A;
+  font-family:unset;
+  font-weight: 600;
+    font-size: 29px;
+}
+.language .icon{
+  color:#99212A;
+  margin-bottom: 6px;
+  font-size: 18px;
+  margin-left: 41px;
+}
+
+.language span{
+  color:#99212A;
+  font-family:unset;
+  font-weight: 600;
+    font-size: 21px;
+}
+.about .info-box{
+font-weight: 400;
+margin-top: 18px;
+font-size: 18px;
+padding: 10px 10px 10px 20px;
+}
+.img-div img{
+width: 100%;
+height: 100%;
+border-radius: 111px;
+}
+.right-side{
+  background-color:rgb(231, 228, 228);
+  width: 660px;
+}
+.education{
+
+  width: 500px;
+  padding-left: 17px;
+
+}
+.education *{
+  text-align: start;
+  }
+.education h4{
+  color:#99212A;
+  font-family:unset;
+  font-size: 26px;
+}
+.education h6{
+  color: #353535;
+  font-family:unset;
+  font-size: 18px;
+
+}
+.education-name{
+  display: flex;
+  margin-top: 25px;
+}
+.education .time{
+  font-family:unset;
+  color: #353535;
+  margin-top: -16px;
+}
+
+.languages{
+  line-height: 4px;
+padding-top: 5px;
+}
+.language .icon{
+  margin-left: 35px;
+}
+
+.languages p{
+  font-size: 14px;
+  
+}
+
+.skils h4{
+  color:#99212A;
+  font-family:unset;
+  font-size: 26px;
+  margin-left: 17px;
+}
+.skils li{
+  font-size: 20px;
+  line-height: 35px;
+}
+
+
